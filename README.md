@@ -5,6 +5,8 @@ Paper worth reading in the semi-supervised learning.
 
 ## Classification Task
 
-| Paper | Code | Info | Blog |
+| Paper | Code | Link | Year |
 | --- | --- | --- | --- |
-|Label Propagation for Deep Semi-supervised Learning|None|[CVPR2019](https://arxiv.org/abs/1904.04717)|None|
+|Adversarial Feature Distribution Alignment for Semi-Supervised Learning|None| [Arxiv](https://arxiv.org/abs/1912.10428)    | 2019.12 |
+|Label Propagation for Deep Semi-supervised Learning|None|[CVPR2019](https://arxiv.org/abs/1904.04717)|2019.04|
+||||None|
